@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-P9ICOFD",
+    "children" : [ {
+      "name" : "15796@DESKTOP-P9ICOFD.TestNG(10)",
+      "children" : [ {
+        "name" : "simpleTest",
+        "uid" : "353cd915a82a9259",
+        "parentUid" : "633b804f03bd9df7b118332d5a9238b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594490771035,
+          "stop" : 1594490773925,
+          "duration" : 2890
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "633b804f03bd9df7b118332d5a9238b4"
+    }, {
+      "name" : "15796@DESKTOP-P9ICOFD.TestNG(11)",
+      "children" : [ {
+        "name" : "simpleTest",
+        "uid" : "16f07d54ab06f1b9",
+        "parentUid" : "95d4655ec09ca147168e92a0a8b36b83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594490771035,
+          "stop" : 1594490773877,
+          "duration" : 2842
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95d4655ec09ca147168e92a0a8b36b83"
+    } ],
+    "uid" : "fb3689cd8f8d8fa10a9774b7e492de03"
+  } ]
+}

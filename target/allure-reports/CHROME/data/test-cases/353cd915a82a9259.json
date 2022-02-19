@@ -1,0 +1,92 @@
+{
+  "uid" : "353cd915a82a9259",
+  "name" : "simpleTest",
+  "fullName" : "com.selenium.SampleSelenium.SampleSelGoogleTest1.simpleTest",
+  "historyId" : "a8b59e545466c7622dd0a7b8cba3074a",
+  "time" : {
+    "start" : 1594490771035,
+    "stop" : 1594490773925,
+    "duration" : 2890
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1594490762026,
+      "stop" : 1594490770950,
+      "duration" : 8924
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1594490774225,
+      "stop" : 1594490775821,
+      "duration" : 1596
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.selenium.SampleSelenium.SampleSelGoogleTest1"
+  }, {
+    "name" : "testClass",
+    "value" : "com.selenium.SampleSelenium.SampleSelGoogleTest1"
+  }, {
+    "name" : "testMethod",
+    "value" : "simpleTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Sample Sel Maven Jenkins TS"
+  }, {
+    "name" : "suite",
+    "value" : "Sample Selenium Maven Jenkins Test Suite - Thread 1"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.selenium.SampleSelenium.SampleSelGoogleTest1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-P9ICOFD"
+  }, {
+    "name" : "thread",
+    "value" : "15796@DESKTOP-P9ICOFD.TestNG(10)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "353cd915a82a9259.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

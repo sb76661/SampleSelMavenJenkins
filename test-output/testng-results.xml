@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22086" started-at="2020-06-27T05:02:29Z" finished-at="2020-06-27T05:02:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22086" started-at="2020-06-27T05:02:29Z" finished-at="2020-06-27T05:02:51Z">
+      <class name="com.selenium.SampleSelenium.GridTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium.SampleSelenium.GridTest@5af97850]" name="setup" is-config="true" duration-ms="14775" started-at="2020-06-27T10:32:29Z" finished-at="2020-06-27T10:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="simpleTest()[pri:0, instance:com.selenium.SampleSelenium.GridTest@5af97850]" name="simpleTest" duration-ms="6610" started-at="2020-06-27T10:32:44Z" finished-at="2020-06-27T10:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.selenium.SampleSelenium.GridTest@5af97850]" name="afterTest" is-config="true" duration-ms="322" started-at="2020-06-27T10:32:50Z" finished-at="2020-06-27T10:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.selenium.SampleSelenium.GridTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

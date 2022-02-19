@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Guru 99 Smoke Test Demo(failed)">
+    <groups>
+      <run>
+        <include name="strong_ties"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.selenium.SampleSelenium.TC_Class1">
+        <methods>
+          <include name="tc03EnterCredentials"/>
+          <include name="tc04VerifyLoggedInPage"/>
+          <include name="tc01LaunchURL"/>
+        </methods>
+      </class> <!-- com.selenium.SampleSelenium.TC_Class1 -->
+    </classes>
+  </test> <!-- Guru 99 Smoke Test Demo(failed) -->
+</suite> <!-- Failed suite [Suite] -->

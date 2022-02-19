@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Sel Maven Jenkins TS" parallel="tests" thread-count="2">
+	<test name="Sample Selenium Maven Jenkins Test Suite - Thread 1">
+		<classes>
+			<class name="com.selenium.SampleSelenium.SampleSelGoogleTest1"/>
+		</classes>
+	</test>
+	<test name="Sample Selenium Maven Jenkins Test Suite - Thread 2">
+		<classes>
+			<class name="com.selenium.SampleSelenium.SampleSelGoogleTest2"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,49 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Sample Sel Maven Jenkins TS",
+    "children" : [ {
+      "name" : "Sample Selenium Maven Jenkins Test Suite - Thread 2",
+      "children" : [ {
+        "name" : "com.selenium.SampleSelenium.SampleSelGoogleTest2",
+        "children" : [ {
+          "name" : "simpleTest",
+          "uid" : "16f07d54ab06f1b9",
+          "parentUid" : "27dec71466026e0252f488c05542d5cd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594490771035,
+            "stop" : 1594490773877,
+            "duration" : 2842
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "27dec71466026e0252f488c05542d5cd"
+      } ],
+      "uid" : "30ac40216ad121430f3faf2b63cde75f"
+    }, {
+      "name" : "Sample Selenium Maven Jenkins Test Suite - Thread 1",
+      "children" : [ {
+        "name" : "com.selenium.SampleSelenium.SampleSelGoogleTest1",
+        "children" : [ {
+          "name" : "simpleTest",
+          "uid" : "353cd915a82a9259",
+          "parentUid" : "1efe4741c71a9edf90040d34b8b3b8a0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594490771035,
+            "stop" : 1594490773925,
+            "duration" : 2890
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1efe4741c71a9edf90040d34b8b3b8a0"
+      } ],
+      "uid" : "be0081c39c8655f68d3ef7405237ceda"
+    } ],
+    "uid" : "804dbb9eb1d4d90da748d24311501538"
+  } ]
+}
